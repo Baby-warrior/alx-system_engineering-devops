@@ -1,2 +1,2 @@
 #!/bin/bash
-cat star_wars_ascii.txt
+telnet towel.blinkenlights.nl
